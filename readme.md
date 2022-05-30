@@ -1,8 +1,6 @@
-<div style="text-align: center;"> –––––––––––––––––––– • ––––––––––––––––––––  </div>
+<h2 align="center">🪨 📄 ✂️ (Rock, Paper, Scissors) <br> ━━━━━━  ❖  ━━━━━━ </h2>
 
-## **Rock, Paper, Scissors** (The game)
-
-This was my very first **Javascript** project. I follow [this tutorial from Dev Ed](https://youtu.be/qWPtKtYEsN4) but also made some modifications.
+This was my very first **Javascript** project. I followed [this tutorial from Dev Ed](https://youtu.be/qWPtKtYEsN4) but also made some modifications.
 
 ### My modifications:
 * Updated colors
