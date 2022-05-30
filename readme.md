@@ -1,4 +1,4 @@
-<center> –––––––––– • ––––––––––  </center>
+<div style="text-align: center;"> –––––––––––––––––––– • ––––––––––––––––––––  </div>
 
 ## **Rock, Paper, Scissors** (The game)
 
